@@ -1,4 +1,10 @@
-Hello! How are you?
-:)
-Nobody wants to go there.
-Changes in Branch 1
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
+
+(Changes in Branch 1)
